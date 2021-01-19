@@ -9,7 +9,6 @@
 
 #### Misc
 * motor_sounds: file type recognization
-  * 268
 * bson: encoding recognization, bytewise xor cypher
 
 ### Post Solved
