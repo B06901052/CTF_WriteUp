@@ -19,7 +19,7 @@ G1 X88.716 Y92.146 E0.37553
 ```
 ## 思路
 * 後來我們在網路上查到這是G code
-* G　code是一種描述點的移動的3D列印的code
+* G code是一種描述點的移動的3D列印的code
 
 ## 程式實作
 * 所以我們找到了3D列印的simulator online tool [ncviewer](https://ncviewer.com/)
